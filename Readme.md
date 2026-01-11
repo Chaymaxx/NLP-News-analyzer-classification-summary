@@ -104,7 +104,7 @@ L’application sera accessible dans le navigateur à l’adresse :
 http://localhost:8501 
 
 ## 7. Interface graphique
-[![Démonstration de l’application](demo/demo.png)](demo/demo_app.mp4)  
+[![Démonstration de l’application](demo/image.png)](demo/demo_app.mp4)  
 L’interface permet à l’utilisateur de saisir ou coller un article, de choisir la langue et le modèle de classification, d’afficher la catégorie prédite avec un score de confiance et de générer un résumé automatique du texte.
 
 ## 8. Structure du projet
