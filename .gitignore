@@ -1,12 +1,7 @@
-# Datasets
+.venv/
 *.csv
+*.pkl
+*.h5
+model/
 archive/
 archive_arabic_news/
-
-# Models lourds optionnels
-*.h5
-*.pkl
-
-# Environnement
-.venv/
-__pycache__/
