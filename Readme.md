@@ -11,8 +11,10 @@ Ce projet vise à développer une solution basée sur le Traitement Automatique 
 
 ## 2. Dataset utilisé
 
-Le projet utilise deux datasets correspondant à deux langues différentes (anglais et arabe).
-
+Le projet utilise deux datasets correspondant à deux langues différentes (anglais et arabe).  
+⚠️ Les datasets volumineux ne sont pas inclus.
+Téléchargement : [https://drive.google.com/drive/folders/1ret3huQAWtI28bxiZKV2Wi-bD0SNP5xS?usp=sharing]
+et respercter l'architecture indiquer a la fin partie 'structure projet'
 ### Dataset anglais
 
 Le premier dataset utilisé est **CNN Articles After Basic Cleaning**, disponible sur Kaggle :   
@@ -63,7 +65,9 @@ Les principales étapes suivies sont :
 ---
 
 ## 4. Modèles utilisés
-
+⚠️ Les Modèles volumineux ne sont pas inclus.
+Téléchargement : [https://drive.google.com/drive/folders/1UJHh-kOPZY64420lcid4PnOdj62DC9y0?usp=sharing]
+et respercter l'architecture indiquer a la fin partie 'structure projet'
 - **Multinomial Naive Bayes**  
   Adapté à la classification de textes avec des caractéristiques discrètes basées sur TF-IDF. Ce modèle est simple, rapide et efficace pour les tâches de classification de documents.
 
